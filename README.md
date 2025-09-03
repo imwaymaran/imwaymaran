@@ -1,38 +1,53 @@
-# 👋 Hi, I’m Gennadii Ershov  
+# Hi there, I'm Gennadii Ershov
 
-Welcome to my GitHub!  
-I break things, fix them, and sometimes even automate the fixing.  
-Mostly, though, I just break them.  
+I'm a former clinical oncologist transitioning into data science. I build projects that combine data, code, and impact.
 
----
+## About
 
-## 🌟 **About Me**  
+- Currently enrolled in the MIT Emerging Talent and Knowledge House Data Science programs  
+- Working on data analysis and machine learning projects using Python  
+- Interested in applied data science roles at the intersection of business and social impact
 
-I’m working hard to build a career in IT, and it hasn’t been easy so far.  
-Recently, I was enrolled in the **MIT Emerging Talent Program** — can you imagine?
-I’m nervous but also excited to see where this journey takes me next.  
+## Selected Projects
 
----
+**[Youth & Legal Access: Immigration Case Analysis](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-19-repo)**  
+Exploratory data analysis on 80M+ U.S. immigration cases with focus on juvenile legal representation.  
+*Tools: Python, NumPy, pandas, matplotlib, seaborn, SciPy*
 
-## 🚀 **What I'm Working On**  
+**[Virtual Study Buddy App](https://github.com/imwaymaran/virtual-study-buddy-app)**  
+A student matching tool based on availability, goals, and study habits.  
+*Tools: Python, Flask, SQLite, Jinja, HTML/CSS*
 
-- Building foundational knowledge in Computer & Data science.  
-- Expanding my expertise in DevOps practices.  
-- Actively seeking opportunities to kickstart my career in IT.  
+**[Lecture Navigator](https://github.com/imwaymaran/lecturer-navigator)**  
+LLM-powered PDF assistant for querying lecture slides with citations in a Streamlit app.  
+*Tools: Python, pandas, PyPDF, FAISS, LangChain, OpenAI API, Streamlit*
 
----
+**[Suicide Ideation Detection (ML Project)](https://github.com/imwaymaran/suicide-ideation-detection-ml)**  
+Reddit-based text classifier with a local baseline and deployment on Google Vertex AI.  
+*Tools: Python, pandas, seaborn, scikit-learn, NLTK, TF-IDF, Logistic Regression, Google Vertex AI*
 
-## 📖 **Learning Goals**  
+**[Mental Health Chatbot (Demo)](https://github.com/imwaymaran/mh-support-chatbot)**  
+Gemini-powered wellness assistant with appointment simulation, reminders, and crisis detection.  
+*Tools: Python, Gemini API*
 
-- Achieving AWS Certified Solutions Architect – Associate.  
-- Earning the Certified Kubernetes Administrator (CKA) certification.  
-- Building the skills to eventually grow my career at a leading tech company.  
+**[Sentiment Analysis Pipeline](https://github.com/imwaymaran/sentiment-analysis-pipeline)**  
+Automated sentiment labeling of product reviews using OpenAI’s API.  
+*Tools: Python, pandas, OpenAI API*
 
----
+**[Fraud Detection: Bank Transactions](https://github.com/imwaymaran/fraud-detection-bank-transactions/tree/main)**  
+Machine learning models for identifying fraudulent banking activity.  
+*Tools: Python, pandas, matplotlib, seaborn, scikit-learn, XGBoost*
 
-## 🤝 **Let's Connect**  
+**[EDA: Coffee Plantations](https://github.com/imwaymaran/eda-coffee-plantations)**  
+Performed EDA and time series regression to analyze how weather affects coffee yields.  
+*Tools: Python, pandas, NumPy, matplotlib, seaborn*
 
-- 📫 Email: [gennadiialbershov@gmail.com](mailto:gennadiialbershov@gmail.com)  
-- 🌐 LinkedIn: [Gennadii Ershov](https://www.linkedin.com/in/gennadii-alb-ershov)
+**[Ad-hoc Instagram Analysis](https://github.com/imwaymaran/adhoc-instagram-analysis)**  
+SQL and Python dashboard for market KPIs in a food brand’s Instagram campaign.  
+*Tools: Python, SQLite, pandas, matplotlib, seaborn*
 
-Feel free to explore my repositories and connect with me!
+## Contact
+
+Email: [gennadiialbershov@gmail.com](mailto:gennadiialbershov@gmail.com)  
+LinkedIn: [linkedin.com/in/gennadii-alb-ershov](https://www.linkedin.com/in/gennadii-alb-ershov)  
+Resume: [PDF](https://docs.google.com/document/d/1PB9-pISkJodo1vqrBsDz1nFg-cVZxjSfxu0KTX9mS00/edit?usp=sharing)
