@@ -20,7 +20,7 @@ Developing a hybrid content-based recommender that uses embeddings, topic modeli
 Analyzing data from 10K+ youth to evaluate program outcomes, design models, and create visualizations that measure changes in wellbeing and support funding decisions.  
 *Tools: Python, pandas, PostgreSQL, Matplotlib, Seaborn*
 
-**[Data Scientist Job Tracker](https://github.com/imwaymaran/data-scientist-job-tracker.git)**
+**[Data Scientist Job Tracker](https://github.com/imwaymaran/data-scientist-job-tracker.git)**  
 Daily scraper that collects, normalizes, and deduplicates Google job postings for “data scientist” roles in the U.S.  
 *Tools: Python, pandas, SQLite, SerpApi*
 
