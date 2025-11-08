@@ -7,8 +7,22 @@ I build projects that combine data, code, and impact.
 ## About
 
 - Currently enrolled in the MIT Emerging Talent and Knowledge House Data Science programs  
-- Working on data analysis and machine learning projects using Python  
-- Interested in applied data science roles at the intersection of business and social impact
+- I like working on projects that connect data, people, and decisions 
+- Especially interested in applied machine learning in fraud detection and recommendation systems
+
+### Currently Working On
+
+**Recommendation System for Mental Health App Users**  
+Developing a hybrid content-based recommender that uses embeddings, topic modeling, and contextual bandits to personalize mental-health videos and improve user engagement.  
+*Tools: Python, pandas, NumPy, scikit-learn, KeyBERT, TF-IDF, sentence-transformers*
+
+**Mental Health Program Evaluation (Non-Profit)**  
+Analyzing data from 10K+ youth to evaluate program outcomes, design models, and create visualizations that measure changes in wellbeing and support funding decisions.  
+*Tools: Python, pandas, PostgreSQL, Matplotlib, Seaborn*
+
+**[Data Scientist Job Tracker](https://github.com/imwaymaran/data-scientist-job-tracker.git)**
+Daily scraper that collects, normalizes, and deduplicates Google job postings for “data scientist” roles in the U.S.  
+*Tools: Python, pandas, SQLite, SerpApi*
 
 ## Selected Projects
 
@@ -40,10 +54,6 @@ Automated sentiment labeling of product reviews using OpenAI’s API.
 Machine learning models for identifying fraudulent banking activity.  
 *Tools: Python, pandas, matplotlib, seaborn, scikit-learn, XGBoost*
 
-**[EDA: Coffee Plantations](https://github.com/imwaymaran/eda-coffee-plantations)**  
-Performed EDA and time series regression to analyze how weather affects coffee yields.  
-*Tools: Python, pandas, NumPy, matplotlib, seaborn*
-
 **[Ad-hoc Instagram Analysis](https://github.com/imwaymaran/adhoc-instagram-analysis)**  
 SQL and Python dashboard for market KPIs in a food brand’s Instagram campaign.  
 *Tools: Python, SQLite, pandas, matplotlib, seaborn*
@@ -52,4 +62,4 @@ SQL and Python dashboard for market KPIs in a food brand’s Instagram campaign.
 
 Email: [gennadiialbershov@gmail.com](mailto:gennadiialbershov@gmail.com)  
 LinkedIn: [linkedin.com/in/gennadii-alb-ershov](https://www.linkedin.com/in/gennadii-alb-ershov)  
-Resume: [PDF](https://docs.google.com/document/d/1PB9-pISkJodo1vqrBsDz1nFg-cVZxjSfxu0KTX9mS00/edit?usp=sharing)
+Resume: [PDF](https://docs.google.com/document/d/1-oh1QfqgnvJhZXbTJx7vsgbKeb7Gmcz4in9dew-znVU/edit?usp=sharing)
