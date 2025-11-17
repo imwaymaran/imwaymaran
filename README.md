@@ -13,7 +13,7 @@ I'm a former clinical oncologist transitioning into data science.
 
 **Recommendation System for Mental Health App Users**  
 Hybrid recommendation engine that personalizes mental-health videos using embeddings, topic modeling, and contextual bandits.
-The core system is fully implemented and currently being prepared for integration into the production app.
+The core system is fully implemented and currently being prepared for integration into the production app.  
 *Tools: Python, pandas, NumPy, scikit-learn, KeyBERT, TF-IDF, sentence-transformers*
 
 **Mental Health Program Evaluation (Non-Profit)**  
@@ -24,7 +24,7 @@ The core analysis is complete; current work focuses on preparing final documenta
 **[Data Scientist Job Tracker](https://github.com/imwaymaran/data-scientist-job-tracker.git)**  
 Daily pipeline that collects and cleans Google Jobs postings for Data Scientist roles in NYC.
 The scraping and data-engineering phase is complete; the system now runs autonomously while the dataset grows.
-Once enough historical data is collected, analysis will focus on long-term hiring trends.
+Once enough historical data is collected, analysis will focus on long-term hiring trends.  
 *Tools: Python, SQLite, SerpApi, Cloudflare R2, GitHub Actions*
 
 ## Selected Projects
