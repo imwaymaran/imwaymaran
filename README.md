@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD013 -->
 # Hi there, I'm Gennadii Ershov
 
-I'm a former clinical oncologist transitioning into data science.  
+Former clinical oncologist transitioning into data science.  
 
 ## About
 
